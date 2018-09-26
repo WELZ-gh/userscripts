@@ -12,7 +12,7 @@
 // @match        *://*.stackoverflow.com/*
 // @match        *://*.superuser.com/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/WELZ-gh/userscripts/master/hidenci.js
+// @updateURL    https://raw.githubusercontent.com/WELZ-gh/userscripts/master/hidenci.user.js
 // ==/UserScript==
 
 $(".new-contributor-indicator").css({ "display" : "none" });
