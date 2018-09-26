@@ -12,6 +12,7 @@
 // @match        *://*.stackoverflow.com/*
 // @match        *://*.superuser.com/*
 // @grant        none
+// @homepage     https://stackapps.com/a/8048/51181
 // @updateURL    https://raw.githubusercontent.com/WELZ-gh/userscripts/master/hidenci.user.js
 // ==/UserScript==
 
